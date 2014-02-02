@@ -1,0 +1,3 @@
+[submodule "skeleton-flexio-plugin"]
+	path = skeleton-flexio-plugin
+	url = https://github.com/jmas/skeleton-flexio-plugin.git
