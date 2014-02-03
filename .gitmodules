@@ -4,3 +4,6 @@
 [submodule "activity-flexio-plugin"]
 	path = activity-flexio-plugin
 	url = https://github.com/jmas/activity-flexio-plugin.git
+[submodule "switcher-flexio-plugin"]
+	path = switcher-flexio-plugin
+	url = https://github.com/NiceBro/switcher-flexio-plugin
